@@ -125,6 +125,11 @@
             justify-self: end;
             align-self: end;
         }
+        a{
+            &:hover {
+                color: $limeGreen;
+            }
+        }
     }
 
 }

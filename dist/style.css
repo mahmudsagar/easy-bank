@@ -801,4 +801,8 @@ button:hover::before,
         align-self: end;
   }
 }
+
+.footer__copyright a:hover {
+  color: #31d35c;
+}
 /*# sourceMappingURL=style.css.map */
