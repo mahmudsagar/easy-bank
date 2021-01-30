@@ -24,7 +24,7 @@
 
     &__logo {
         display: block;
-
+        margin-bottom: 1.875rem;
         @include breakpoint-up(large) {
             grid-area: logo;
         }
